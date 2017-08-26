@@ -12,7 +12,7 @@
    :target: http://eml-parser.readthedocs.io
 
 
-eml_parser serves as a python module for parsing eml files and returning various
+ eml_parser serves as a python module for parsing eml files and returning various
 information found in the e-mail.
 
 Information include but are not limited to:
